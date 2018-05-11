@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "custom_shm.h": "c",
+        "custom_sem.h": "c"
+    }
+}
