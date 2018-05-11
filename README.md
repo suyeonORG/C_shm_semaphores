@@ -1,6 +1,9 @@
 # Semaphore and Shared memory example
 [C] Simple semaphore/shared memory implementation
-<img style="display: block;margin-left: auto;margin-right: auto;" src="https://cloud.suyeon.org/github/suyeon.svg" alt="Suyeon logo" height="250" width="250">
+
+<div style="display: block;margin-left: auto;margin-right: auto;">
+<img src="https://cloud.suyeon.org/github/suyeon.svg" alt="Suyeon logo" height="250" width="250">
+<div>
 
 # How to use
 The following example is silly and stupid. The goal here is to use the methods in your own solution.
