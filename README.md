@@ -1,6 +1,6 @@
 # Semaphore and Shared memory example
 [C] Simple semaphore/shared memory implementation
-![](suyeon.svg)
+![](suyeon.svg =250x250)
 
 # How to use
 The following example is silly and stupid. The goal here is to use the methods in your own solution.
